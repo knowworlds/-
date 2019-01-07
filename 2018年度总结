@@ -1,0 +1,23 @@
+2018年过去了
+
+多事的一年，也是提升很大的一年。生活技能方面，相比与2017年，更加习惯做饭的生活，自理能力得到了很大的提高。学业方面也算有了一些长足的进步，主要是在数字上的设计经验多了一些。模拟的东西还是有点云里雾里。娱乐方面，DOTA变得厉害了些，下半年趁着实习，也算把瑞士逛了个遍。雪山Zermatt visp、卢塞恩湖周围Luzern,Thun,spiez,北部的Aurau,Baden,Zurich，还有边境德国的Waldshut,Konstanz,Rheinfelden，意大利语区Lugano，Bellinzona，Ponte Tresa。意大利Milano也去了，走的是St.Moritz,Tirano线路，米兰的10月1日支付宝他乡遇故支活动有点东西。和公司去的纳沙泰尔左边的法国Pontarlier吃的饭还有奶酪工厂也很好。现在瑞士剩下的还可以玩的地方，应该只剩下Jura州和St.Gallen州了。奥地利的Marynhofen滑雪是真不错据说还是大东山地带，算是著名滑雪地带了，锻炼了身体也学会了技能，奥地利本地餐馆大肘子是真给力，knuckle，虽然最后超支不少，但是还是很开心的。工作也已经找到了，去华为还是可以的，回国和宝宝待着。包子也从德国转移到了瑞士，12月1号那会儿搬家是真的忙，找房也有点累，不过一切都是值得的。
+
+爷爷走的一年，不时的会想到。还是太年轻了把，因为一些简单的原因，就不太亲近了，后悔也没啥用了。过的好一点。
+
+在2018的最后，发现MIGROS里有卖黄豆，可惜没有干子，不过还是很舒服了。
+
+在公司实习，提升了一些方面的技能
+
+对于大公司的管理流程有了一定的认识，入职培训的Check-list，内部管理系统以及报备工作时间的网站。
+Documentation的技能有了些许的进步，做PPT要straight-forward点。如果是Final-pre就要多做图表。如果是报告的word，是有一个范式，需要多放超链接。
+Altium designer用上了正版的，设计了三四个原理图，原理图设计的快捷键以及一些Rule的添加熟悉了点，Layout由于公司Rule没有涉及。
+在画原理图的过程中，使用digikey还有database对Linear regulator熟悉了些，以及其指标有了更深层次的认识。还有电阻的类型以及其参数也是知道了更多。
+最后根据Howland current source设计了一款适用于我们Project意图的一款Improved howland current source，即将Populated,后面会测试一翻。在设计时，使用了Tina,LTspice进行了仿真测试，仿真测试良好。并且还测试过一款用于压阻电路的原理图，使用TINA测试。
+Python方面，对于Numpy以及Pandas使用有了一些自己的心得，也知道如何把图画的更好看一些了。还有就是数据处理方面也稍微明白了点。
+使用了四种Impedance analyzer. LCR Meter, Palmsens4, EVAL-AD5933，Sciospec。在测试Test fixture board的途中使用了Power supply以及Syringe pump（注射器，为了用Probe测Multi-layer silicone用的），也使用了Oscilloscope观测杂波。Christophe提出了2-relay成功的解决了Nois对于测量结果影响的问题。在测试中使用了较多的Header还有BNC Cable。
+并且对于自我管理方面，每周会更新工作报告。这点是很重要的一点，记录做过的东西，也对下一步有更清晰的认识，不至于忘记。
+
+2019要利用从公司实习学到的东西，争取把毕设做的好些，因为有tape-out，所以很关键。最好是能找个TA，贴补家用，不然有点不够花了。:)
+
+
+
